@@ -1,1 +1,1 @@
-# chrom-dino-game
+# chrome-dino-game
