@@ -2,11 +2,13 @@
 import { consoleTest } from "./2.js"
 import './style.css'
 
+console.log('hey from index')
+console.log(consoleTest)
+
 
 const WORLD_WIDTH = 100
 const WORLD_HEIGHT = 30
 
-console.log(consoleTest)
 
 const worldElem = document.querySelector('[data-world]')
 

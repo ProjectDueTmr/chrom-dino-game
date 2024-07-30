@@ -1,3 +1,3 @@
 export function consoleTest() {
-    console.log("yo!")
+    console.log("hey from 2")
 }
