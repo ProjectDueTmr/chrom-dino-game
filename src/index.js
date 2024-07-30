@@ -2,12 +2,13 @@
 import { consoleTest } from "./2.js"
 import './style.css'
 
+
 const WORLD_WIDTH = 100
 const WORLD_HEIGHT = 30
 
+console.log(consoleTest)
 
-
-const worldElem = document.querySelector('[data-world')
+const worldElem = document.querySelector('[data-world]')
 
 setPixelToWorldScale()
 window.addEventListener('resize', setPixelToWorldScale)
