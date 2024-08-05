@@ -1,9 +1,8 @@
 
-import { consoleTest } from "./test.js"
+
 import './style.css'
 
 console.log('hey from index')
-console.log(consoleTest())
 
 
 // const WORLD_WIDTH = 100
